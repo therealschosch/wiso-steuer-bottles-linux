@@ -30,7 +30,7 @@ Wechseln Sie in die Einstellungen der neu erstellten Bottle und klicken Sie auf 
 - `mono` (Wine-Mono, wird für .NET-Komponenten benötigt)
 
 ### 1.4 WISO Steuer installieren
-1. Laden Sie die offizielle Windows-Installationsdatei (z.B. `wiso_steuer_2024.exe`) herunter.
+1. Laden Sie die offizielle Windows-Installationsdatei (z.B. `wiso_steuer_2027.exe`) herunter.
 2. Klicken Sie in Bottles auf **Führe ausführbare Datei aus** und wählen Sie das Setup.
 3. Folgen Sie dem normalen Installationsassistenten. Das Programm-Icon erscheint danach in der Bottles-Übersicht unter "Programme".
 
