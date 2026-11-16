@@ -1,3 +1,6 @@
+
+![Screenshot](images/Screenshot.png)
+
 # WISO Steuer unter Debian Linux (mit Bottles)
 Installation der Wiso Steuer 2027 Windows Version unter Linux mit Bottles / Wine. Incl. Druckvorschau PDF/Web und Anbindung an das lokale Filesystem und Netzwerk.
 
@@ -77,4 +80,5 @@ Um lokal gemountete CIFS-Shares (z.B. `/home/meinuser/meinefinanzen`) als Laufwe
 1. Öffnen Sie Ihre WISO-Bottle und scrollen Sie nach unten zu **Programme**.
 2. Klicken Sie rechts neben dem Eintrag "WISO Steuer" auf das Menü-Symbol (**⋮**).
 3. Wählen Sie **Zum Desktop hinzufügen** (Add to Desktop).
+ ![Screenshot](images/Menue.png)
 4. Öffnen Sie Ihr KDE-Startmenü und suchen Sie nach "WISO". Das Programm kann nun direkt von hier gestartet oder an die Taskleiste angeheftet werden, ohne zuerst die Bottles-GUI öffnen zu müssen.
